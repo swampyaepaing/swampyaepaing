@@ -19,7 +19,7 @@ I am an AI Training Specialist and a graduate of Masaryk University, with experi
 
 - **Healthcare Mobility Modelling in Czechia:** Contributed to developing a gravity model for interdistrict healthcare mobility in a collaborative project. [Project details](projects/healthcare-mobility.md). Public code and data availability are being reviewed.
 - **Twitter Sentiment & Socioeconomic Status in NYC (2020):** [Project details](projects/twitter-sentiment-nyc.md). Collaborative Python/NLP and spatial analysis of COVID-19 discourse. [Project notebook](https://colab.research.google.com/drive/1dpvhGJbZ4-lti6kX3WQla_pM3SlyV4Dl?usp=sharing) (access not independently verified).
-- **NYC Motor Vehicle Collisions:** Independent R-based exploration of crash patterns and severity modelling; public repository pending.
+- **NYC Motor Vehicle Collisions:** [Project details](projects/nyc-car-accidents.md). Independent R-based exploration of crash patterns and severity modelling; public repository pending.
 - **Sales Data Dashboard:** Excel-based analytics project. [Workbook repository](https://github.com/swampyaepaing/ExcelPorject_salesData).
 
 ## Technical and research interests
